@@ -1,1 +1,3 @@
 # PythonLearn
+
+I used Python some for work back in 2008 - 2012 when I was working for a GIS software company, and Python was the default scripting language for Esri's ArcGIS tools. However, after not using it much in the past several years - and dabbling a bit in R instead - I started focusing more on Python in the last year or so. I've included a few small scripts/programs I've played around with, mostly just to learn something specific from each one. None are very sophisticated or polished, and haven't been modified since they were first written. Most recent Python work has been in Spark/Databricks notebooks.
